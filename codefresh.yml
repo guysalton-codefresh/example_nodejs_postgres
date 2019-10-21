@@ -7,7 +7,7 @@ steps:
   main_clone:
     type: "git-clone"
     description: "Cloning main repository..."
-    repo: "codefreshdemo/example_nodejs_postgres"
+    repo: "guysalton-codefresh/example_nodejs_postgres"
     revision: "master"
     git: github-guy
     stage: prepare
